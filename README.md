@@ -1,1 +1,1 @@
-# java-interview
+# Clinic Simulator
